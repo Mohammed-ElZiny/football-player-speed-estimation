@@ -1,5 +1,5 @@
 
-[video](./dataset/running.mp4)
+[video](./dataset/running_result.mp4)
 
 ## Install
 Make sure you have Python on your local computer. I use Python with version 3.10. Run following dependencies:
