@@ -1,6 +1,5 @@
 
-<iframe src="/dataset/runnging.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+[video](./dataset/running.mp4)
 
 ## Install
 Make sure you have Python on your local computer. I use Python with version 3.10. Run following dependencies:
